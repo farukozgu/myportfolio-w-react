@@ -1,6 +1,6 @@
 # 🚀 Faruk Ozgu's Portfolio
 
-Welcome to my personal portfolio! This project is built using **React**, **Tailwind CSS**, and the **Motion** library. It's a platform where I showcase both completed and upcoming projects. With a modern design and smooth animations, the site is optimized for a user-friendly experience.
+Welcome to my personal portfolio! This project is built using **React**, **Tailwind CSS**, and the **Motion** library. It's a platform where I showcase both completed and upcoming projects. With a modern design, smooth animations, and support for **dark** and **light modes**, the site is optimized for a user-friendly experience.
 
 ## 🛠 Technologies Used
 
@@ -14,6 +14,8 @@ Welcome to my personal portfolio! This project is built using **React**, **Tailw
 - **Company Details**: Company information dynamically changes when clicked.
 - **Modern Design**: A mobile-first, responsive design built with Tailwind CSS.
 - **Smooth Animations**: Transitions and animations using the Motion library.
+- **Dark & Light Mode**: Toggle between dark and light modes for a personalized experience.
+- **Project Slider**: Showcase your projects with a smooth, mouse-controlled slider that can be scrolled horizontally.
 
 ## 🚀 Live Demo
 
