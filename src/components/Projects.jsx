@@ -52,15 +52,23 @@ function Projects() {
           </h1>
           <Swiper
             navigation={true}
-            slidesPerView={3}
+            slidesPerView={1}
             centeredSlides={false}
             spaceBetween={30}
-            freeMode={true}
+            freeMode={false}
             pagination={{
               clickable: true,
             }}
             modules={[FreeMode, Pagination]}
             className="mySwiper"
+            breakpoints={{
+              991: {
+                slidesPerView: 3,
+              },
+              767: {
+                slidesPerView: 2,
+              },
+            }}
           >
             {projectList.map((project, index) => (
               <SwiperSlide key={index}>
