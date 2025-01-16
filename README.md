@@ -20,7 +20,7 @@ Welcome to my personal portfolio! This project is built using **React**, **Tailw
 ## 🚀 Live Demo
 
 You can view the live demo of the project here:  
-[Live Demo](https://myportfolio-w-react-5j8w8sehs-farukozgus-projects.vercel.app/)
+[Live Demo](https://myportfolio-w-react.vercel.app/)
 
 ## 📝 Installation
 
