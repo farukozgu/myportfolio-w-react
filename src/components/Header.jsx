@@ -88,9 +88,12 @@ function Header() {
                 alt="Toggle Dark Mode"
               />
             </button>
-            <button className="bg-slate-900 dark:bg-white dark:text-black text-white rounded-lg transition-all hover:bg-blue-600 dark:hover:bg-blue-600 dark:hover:text-white py-2 px-5 font-semibold font-inter text-base m-5">
+            <a
+              href="/public/farukcv.pdf"
+              className="bg-slate-900 dark:bg-white dark:text-black text-white rounded-lg transition-all hover:bg-blue-600 dark:hover:bg-blue-600 dark:hover:text-white py-2 px-5 font-semibold font-inter text-base m-5"
+            >
               Download CV
-            </button>
+            </a>
           </div>
         </div>
       </nav>
