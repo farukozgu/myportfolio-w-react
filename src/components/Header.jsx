@@ -89,7 +89,7 @@ function Header() {
               />
             </button>
             <a
-              href="/public/farukcv.pdf"
+              href="https://drive.google.com/file/d/18yBXeSWq1D-cxS3XFouP7gDIneLYsPEU/view?usp=sharing"
               className="bg-slate-900 dark:bg-white dark:text-black text-white rounded-lg transition-all hover:bg-blue-600 dark:hover:bg-blue-600 dark:hover:text-white py-2 px-5 font-semibold font-inter text-base m-5"
             >
               Download CV
