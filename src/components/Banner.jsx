@@ -15,7 +15,7 @@ function Banner() {
           <span className="text-blue-600">a Passionate Front</span>end Developer
         </p>
         <p className="font-normal text-base sm:text-2xl text-slate-700 py-1 font-inter max-w-3xl dark:text-white">
-          I'm a frontend developer based in Italy, I'll help you build beautiful
+          I'm a frontend developer based in Turkey, I'll help you build beautiful
           websites your users will love.
         </p>
         <a
